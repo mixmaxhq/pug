@@ -67,7 +67,7 @@
     "stop": "^3.0.0-rc1",
     "stylus": "*",
     "twbs": "0.0.6",
-    "uglify-js": "*"
+    "uglify-js": "^2.4.19"
   },
   "component": {
     "scripts": {
